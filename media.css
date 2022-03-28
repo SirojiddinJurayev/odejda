@@ -1,0 +1,14 @@
+@media(max-width: 750px){
+    .flickity-button{
+        display: block;
+    }
+    .flickity-page-dots{
+        display: block;
+    }
+    .carusel__item{
+        width: 50%;
+    }
+    .carusel__item img{
+        width: 100%;
+    }
+}
